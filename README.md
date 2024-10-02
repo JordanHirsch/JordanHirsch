@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanHirsch
 - 👀 I’m interested in space, sports, and gym exercising.
-- 🌱 I’m currently learning Computer Science at Florida Atlantic University and data analysis through certification via Coursera.
+- 🌱 I’m currently learning Computer Science at Florida Atlantic University and data analysis through certifications.
 - 💞️ I’m looking to collaborate on pulling and analyzing files to convert into visual datasets for observation.
 - 📫 How to reach me, contact via email at hirschj2023@fau.edu.
 - 😄 Pronouns: He/Him
